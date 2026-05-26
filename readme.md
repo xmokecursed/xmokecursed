@@ -31,7 +31,7 @@
 
 ### &nbsp;work
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;> most repos are private. here's what's out.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; most repos are private. here's what's out.
 
 <br>
 
