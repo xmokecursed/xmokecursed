@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="artist_ kurousagi_man.jpg" alt="" width="100%" />
+<img src="artist_ kurousagi_man.jpg" alt="xmoke" height="512" width="512" />
 
 <br>
 
@@ -55,23 +55,6 @@
 &nbsp;&nbsp;`Python` `Discord Selfbot`
 
 <br>
-
----
-
-### &nbsp;stats
-
-<br>
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xmokecursed&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=c9a96e&icon_color=c9a96e&text_color=888880&hide=contribs,prs,issues)](https://github.com/xmokecursed)
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmokecursed&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c9a96e&text_color=888880)](https://github.com/xmokecursed)
-
-</div>
-
-<br>
-
 ---
 
 ### &nbsp;contact
