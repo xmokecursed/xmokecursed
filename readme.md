@@ -1,19 +1,12 @@
-<!-- Hallmark · custom theme: Wayfare · genre: editorial · macrostructure: Long Document
-     accent: amber-sand · paper: deep charcoal · display: geometric-sans clean
-     P5 H5 E5 S5 R5 V5 -->
-
 <div align="center">
 
-<br>
+<img src="artist_ kurousagi_man.jpg" alt="" width="100%" />
 
-<img src="artist_ kurousagi_man.jpg" alt="xmoke banner" width="100%" />
-
-<br>
 <br>
 
 # xmoke
 
-`chronically online` &nbsp;·&nbsp; intermediate dev 
+`chronically online` &nbsp;·&nbsp; intermediate dev
 
 <br>
 
@@ -27,10 +20,6 @@
 <br>
 
 ---
-
----
-
-<br>
 
 ### &nbsp;stack
 
@@ -48,61 +37,53 @@
 
 ---
 
-<br>
-
 ### &nbsp;work
 
 <br>
 
-> Most repos are private. Here's what's out.
+> most repos are private. here's what's out.
 
 <br>
 
 **[→ Discord Bot](https://tinyurl.com/invitebocchan)**
-&nbsp;&nbsp;A bot that grew bigger than I intended.
-`Python` `Nextcord` `JSON`
-
-<br>
+&nbsp;&nbsp;`Python` `Nextcord` `JSON`
 
 **[→ Auto Bumper](https://github.com/xmokecursed/disboard-auto-bumper)**
-&nbsp;&nbsp;Auto-bumps a discord server. Manual labor is cringe.
-`Python` `Discord Selfbot`
-
-<br>
+&nbsp;&nbsp;`Python` `Discord Selfbot`
 
 **[→ DM Cleaner](https://github.com/xmokecursed/discord-cleandm)**
-&nbsp;&nbsp;Cleans the massdm mess left by whoever logged in.
-`Python` `Discord Selfbot`
+&nbsp;&nbsp;`Python` `Discord Selfbot`
 
 <br>
 
 ---
-
-<br>
 
 ### &nbsp;stats
 
 <br>
 
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xmokecursed&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=c9a96e&icon_color=c9a96e&text_color=888880&hide=contribs,prs,issues)](https://github.com/xmokecursed)
+&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmokecursed&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c9a96e&text_color=888880)](https://github.com/xmokecursed)
+
+</div>
 
 <br>
 
 ---
 
-<br>
-
 ### &nbsp;contact
 
 <br>
 
-Have an idea worth building? &nbsp;**[hello@xmoke.dev](mailto:xmokeplayz999@proton.me)**
+**[hello@xmoke.dev](mailto:xmokeplayz999@proton.me)**
 
 <br>
 
 ---
 
 <div align="center">
-<br>
 <sub>© 2026 xmoke</sub>
-<br><br>
 </div>
