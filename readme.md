@@ -6,14 +6,14 @@
 
 <br>
 
-<img src="banner.png" alt="xmoke banner" width="100%" />
+<img src="artist_ kurousagi_man.jpg" alt="xmoke banner" width="100%" />
 
 <br>
 <br>
 
 # xmoke
 
-`chronically online` &nbsp;·&nbsp; intermediate dev &nbsp;·&nbsp; builder of things
+`chronically online` &nbsp;·&nbsp; intermediate dev 
 
 <br>
 
@@ -27,17 +27,6 @@
 <br>
 
 ---
-
-<br>
-
-**I build whatever comes to mind** — mostly to make my own life easier, or just out of boredom.
-Most of my work lives in private repos, but the useful parts find their way out.
-
-```
-currently  →  writing code  ·  watching anime  ·  definitely not gooning
-```
-
-<br>
 
 ---
 
@@ -95,13 +84,6 @@ currently  →  writing code  ·  watching anime  ·  definitely not gooning
 
 <br>
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xmokecursed&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=c9a96e&icon_color=c9a96e&text_color=888880&hide=contribs)](https://github.com/xmokecursed)
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmokecursed&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c9a96e&text_color=888880)](https://github.com/xmokecursed)
-
-</div>
 
 <br>
 
