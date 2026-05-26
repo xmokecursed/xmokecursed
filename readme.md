@@ -25,6 +25,8 @@
 
 <br>
 
+<table border="0"><tr><td width="32"></td><td>
+
 ![Python](https://img.shields.io/badge/Python-1a1814?style=flat-square&logo=python&logoColor=c9a96e)
 ![C++](https://img.shields.io/badge/C++-1a1814?style=flat-square&logo=cplusplus&logoColor=c9a96e)
 ![C#](https://img.shields.io/badge/C%23-1a1814?style=flat-square&logo=csharp&logoColor=c9a96e)
@@ -32,6 +34,8 @@
 ![HTML](https://img.shields.io/badge/HTML-1a1814?style=flat-square&logo=html5&logoColor=c9a96e)
 ![CSS](https://img.shields.io/badge/CSS-1a1814?style=flat-square&logo=css3&logoColor=c9a96e)
 ![SQL](https://img.shields.io/badge/SQL-1a1814?style=flat-square&logo=mysql&logoColor=c9a96e)
+
+</td></tr></table>
 
 <br>
 
@@ -45,6 +49,8 @@
 
 <br>
 
+<table border="0"><tr><td width="32"></td><td>
+
 **[→ Discord Bot](https://tinyurl.com/invitebocchan)**
 &nbsp;&nbsp;`Python` `Nextcord` `JSON`
 
@@ -54,14 +60,17 @@
 **[→ DM Cleaner](https://github.com/xmokecursed/discord-cleandm)**
 &nbsp;&nbsp;`Python` `Discord Selfbot`
 
+</td></tr></table>
+
 <br>
+
 ---
 
 ### &nbsp;contact
 
 <br>
 
-**[hello@xmoke.dev](mailto:xmokeplayz999@proton.me)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[hello@xmoke.dev](mailto:xmokeplayz999@proton.me)**
 
 <br>
 
