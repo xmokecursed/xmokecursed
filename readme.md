@@ -1,61 +1,101 @@
+<!-- Hallmark · custom theme: Wayfare · genre: editorial · macrostructure: Long Document
+     accent: amber-sand · paper: deep charcoal · display: geometric-sans clean
+     P5 H5 E5 S5 R5 V5 -->
+
 <div align="center">
 
-```
-██╗  ██╗███╗   ███╗ ██████╗ ██╗  ██╗███████╗
-╚██╗██╔╝████╗ ████║██╔═══██╗██║ ██╔╝██╔════╝
- ╚███╔╝ ██╔████╔██║██║   ██║█████╔╝ █████╗  
- ██╔██╗ ██║╚██╔╝██║██║   ██║██╔═██╗ ██╔══╝  
-██╔╝ ██╗██║ ╚═╝ ██║╚██████╔╝██║  ██╗███████╗
-╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
-```
+<br>
 
-**`chronically online`** &nbsp;•&nbsp; intermediate dev &nbsp;•&nbsp; builder of things
+<!-- name mark: clean wordmark, no ASCII -->
+# xmoke
 
-[![Discord](https://img.shields.io/badge/Discord-1302457902401060906-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1302457902401060906)
-[![GitHub](https://img.shields.io/badge/GitHub-xmokecursed-181717?style=flat-square&logo=github)](https://github.com/xmokecursed)
-[![Instagram](https://img.shields.io/badge/Instagram-xmokecursed-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/xmokecursed)
+`chronically online` &nbsp;·&nbsp; intermediate dev &nbsp;·&nbsp; builder of things
+
+<br>
+
+[![](https://img.shields.io/badge/-xmoke.dev-c9a96e?style=flat-square&labelColor=1a1814&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNjOWE5NmUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxsaW5lIHgxPSIyIiB5MT0iMTIiIHgyPSIyMiIgeTI9IjEyIi8+PHBhdGggZD0iTTEyIDJhMTUuMyAxNS4zIDAgMCAxIDQgMTAgMTUuMyAxNS4zIDAgMCAxLTQgMTAgMTUuMyAxNS4zIDAgMCAxLTQtMTAgMTUuMyAxNS4zIDAgMCAxIDQtMTB6Ii8+PC9zdmc+)](https://xmoke.dev)
+[![](https://img.shields.io/badge/-GitHub-c9a96e?style=flat-square&labelColor=1a1814&logo=github&logoColor=c9a96e)](https://github.com/xmokecursed)
+[![](https://img.shields.io/badge/-Discord-c9a96e?style=flat-square&labelColor=1a1814&logo=discord&logoColor=c9a96e)](https://discord.com/users/1302457902401060906)
+[![](https://img.shields.io/badge/-Instagram-c9a96e?style=flat-square&labelColor=1a1814&logo=instagram&logoColor=c9a96e)](https://instagram.com/xmokecursed)
 
 </div>
 
----
-
-### about
-
-I build whatever comes to my mind — mostly to make my own life easier, or just out of boredom.  
-Most of my work lives in private repos, but I try to make the useful parts available to the public.
-
-When I'm not at the keyboard: anime, games, or studying.
+<br>
 
 ---
 
-### stack
+<br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**I build whatever comes to mind** — mostly to make my own life easier, or just out of boredom.
+Most of my work lives in private repos, but the useful parts find their way out.
+When I'm away from the keyboard: anime, games, studying.
+
+<br>
 
 ---
 
-### selected work
+<br>
 
-| project | what it does |
-|---|---|
-| [**Discord Bot**](https://tinyurl.com/invitebocchan) | A discord bot that grew bigger than intended |
-| [**Auto Bumper**](https://github.com/xmokecursed/disboard-auto-bumper) | Auto-bumps a discord server because manual labor is cringe |
-| [**DM Cleaner**](https://github.com/xmokecursed/discord-cleandm) | Cleans the massdm mess left behind |
+### &nbsp;stack
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-1a1814?style=flat-square&logo=python&logoColor=c9a96e)
+![C++](https://img.shields.io/badge/C++-1a1814?style=flat-square&logo=cplusplus&logoColor=c9a96e)
+![C#](https://img.shields.io/badge/C%23-1a1814?style=flat-square&logo=csharp&logoColor=c9a96e)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1814?style=flat-square&logo=javascript&logoColor=c9a96e)
+![HTML](https://img.shields.io/badge/HTML-1a1814?style=flat-square&logo=html5&logoColor=c9a96e)
+![CSS](https://img.shields.io/badge/CSS-1a1814?style=flat-square&logo=css3&logoColor=c9a96e)
+![SQL](https://img.shields.io/badge/SQL-1a1814?style=flat-square&logo=mysql&logoColor=c9a96e)
+
+<br>
 
 ---
 
-### contact
+<br>
 
-Got an idea worth building? → **[hello@xmoke.dev](mailto:xmokeplayz999@proton.me)**
+### &nbsp;work
+
+<br>
+
+> Most repos are private. Here's what's out.
+
+<br>
+
+**[→ Discord Bot](https://tinyurl.com/invitebocchan)**
+&nbsp;&nbsp;A bot that grew bigger than I intended.
+`Python` `Nextcord` `JSON`
+
+<br>
+
+**[→ Auto Bumper](https://github.com/xmokecursed/disboard-auto-bumper)**
+&nbsp;&nbsp;Auto-bumps a discord server. Manual labor is cringe.
+`Python` `Discord Selfbot`
+
+<br>
+
+**[→ DM Cleaner](https://github.com/xmokecursed/discord-cleandm)**
+&nbsp;&nbsp;Cleans the massdm mess left by whoever logged in.
+`Python` `Discord Selfbot`
+
+<br>
+
+---
+
+<br>
+
+### &nbsp;contact
+
+<br>
+
+Have an idea worth building? &nbsp;**[hello@xmoke.dev](mailto:xmokeplayz999@proton.me)**
+
+<br>
 
 ---
 
 <div align="center">
-<sub>© 2026 xmoke · xmoke.dev</sub>
+<br>
+<sub>© 2026 xmoke</sub>
+<br><br>
 </div>
