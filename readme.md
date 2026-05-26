@@ -6,7 +6,11 @@
 
 <br>
 
-<!-- name mark: clean wordmark, no ASCII -->
+<img src="banner.png" alt="xmoke banner" width="100%" />
+
+<br>
+<br>
+
 # xmoke
 
 `chronically online` &nbsp;·&nbsp; intermediate dev &nbsp;·&nbsp; builder of things
@@ -28,7 +32,10 @@
 
 **I build whatever comes to mind** — mostly to make my own life easier, or just out of boredom.
 Most of my work lives in private repos, but the useful parts find their way out.
-When I'm away from the keyboard: anime, games, studying.
+
+```
+currently  →  writing code  ·  watching anime  ·  definitely not gooning
+```
 
 <br>
 
@@ -77,6 +84,24 @@ When I'm away from the keyboard: anime, games, studying.
 **[→ DM Cleaner](https://github.com/xmokecursed/discord-cleandm)**
 &nbsp;&nbsp;Cleans the massdm mess left by whoever logged in.
 `Python` `Discord Selfbot`
+
+<br>
+
+---
+
+<br>
+
+### &nbsp;stats
+
+<br>
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xmokecursed&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=c9a96e&icon_color=c9a96e&text_color=888880&hide=contribs)](https://github.com/xmokecursed)
+&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmokecursed&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c9a96e&text_color=888880)](https://github.com/xmokecursed)
+
+</div>
 
 <br>
 
