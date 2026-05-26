@@ -23,19 +23,7 @@
 
 ### &nbsp;stack
 
-<br>
-
-<table border="0"><tr><td width="32"></td><td>
-
-![Python](https://img.shields.io/badge/Python-1a1814?style=flat-square&logo=python&logoColor=c9a96e)
-![C++](https://img.shields.io/badge/C++-1a1814?style=flat-square&logo=cplusplus&logoColor=c9a96e)
-![C#](https://img.shields.io/badge/C%23-1a1814?style=flat-square&logo=csharp&logoColor=c9a96e)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1814?style=flat-square&logo=javascript&logoColor=c9a96e)
-![HTML](https://img.shields.io/badge/HTML-1a1814?style=flat-square&logo=html5&logoColor=c9a96e)
-![CSS](https://img.shields.io/badge/CSS-1a1814?style=flat-square&logo=css3&logoColor=c9a96e)
-![SQL](https://img.shields.io/badge/SQL-1a1814?style=flat-square&logo=mysql&logoColor=c9a96e)
-
-</td></tr></table>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-1a1814?style=flat-square&logo=python&logoColor=c9a96e) ![C++](https://img.shields.io/badge/C++-1a1814?style=flat-square&logo=cplusplus&logoColor=c9a96e) ![C#](https://img.shields.io/badge/C%23-1a1814?style=flat-square&logo=csharp&logoColor=c9a96e) ![JavaScript](https://img.shields.io/badge/JavaScript-1a1814?style=flat-square&logo=javascript&logoColor=c9a96e) ![HTML](https://img.shields.io/badge/HTML-1a1814?style=flat-square&logo=html5&logoColor=c9a96e) ![CSS](https://img.shields.io/badge/CSS-1a1814?style=flat-square&logo=css3&logoColor=c9a96e) ![SQL](https://img.shields.io/badge/SQL-1a1814?style=flat-square&logo=mysql&logoColor=c9a96e)
 
 <br>
 
@@ -43,24 +31,15 @@
 
 ### &nbsp;work
 
-<br>
-
-> most repos are private. here's what's out.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;> most repos are private. here's what's out.
 
 <br>
 
-<table border="0"><tr><td width="32"></td><td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[→ Discord Bot](https://tinyurl.com/invitebocchan)** &nbsp;`Python` `Nextcord` `JSON`
 
-**[→ Discord Bot](https://tinyurl.com/invitebocchan)**
-&nbsp;&nbsp;`Python` `Nextcord` `JSON`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[→ Auto Bumper](https://github.com/xmokecursed/disboard-auto-bumper)** &nbsp;`Python` `Discord Selfbot`
 
-**[→ Auto Bumper](https://github.com/xmokecursed/disboard-auto-bumper)**
-&nbsp;&nbsp;`Python` `Discord Selfbot`
-
-**[→ DM Cleaner](https://github.com/xmokecursed/discord-cleandm)**
-&nbsp;&nbsp;`Python` `Discord Selfbot`
-
-</td></tr></table>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[→ DM Cleaner](https://github.com/xmokecursed/discord-cleandm)** &nbsp;`Python` `Discord Selfbot`
 
 <br>
 
@@ -68,9 +47,7 @@
 
 ### &nbsp;contact
 
-<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[hello@xmoke.dev](mailto:xmokeplayz999@proton.me)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[hello@xmoke.dev](mailto:xmokeplayz999@proton.me)**
 
 <br>
 
