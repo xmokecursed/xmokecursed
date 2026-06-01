@@ -25,10 +25,10 @@
 ↳ &nbsp;
 ![Python](https://img.shields.io/badge/Python-1a1814?style=flat-square&logo=python&logoColor=c9a96e)
 ![C++](https://img.shields.io/badge/C%2B%2B-1a1814?style=flat-square&logo=cplusplus&logoColor=c9a96e)
-![C#](https://img.shields.io/badge/C%23-1a1814?style=flat-square&logo=csharp&logoColor=c9a96e)
+![C#](https://img.shields.io/badge/C%23-1a1814?style=flat-square&logo=dotnet&logoColor=c9a96e)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1814?style=flat-square&logo=javascript&logoColor=c9a96e)
 ![HTML5](https://img.shields.io/badge/HTML5-1a1814?style=flat-square&logo=html5&logoColor=c9a96e)
-![CSS3](https://img.shields.io/badge/CSS3-1a1814?style=flat-square&logo=css3&logoColor=c9a96e)
+![CSS](https://img.shields.io/badge/CSS-1a1814?style=flat-square&logo=css&logoColor=c9a96e)
 ![SQL](https://img.shields.io/badge/SQL-1a1814?style=flat-square&logo=mysql&logoColor=c9a96e)
 
 <br>
