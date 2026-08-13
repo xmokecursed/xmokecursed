@@ -47,7 +47,7 @@
 
 ↳ &nbsp;**[DM Cleaner](https://github.com/xmokecursed/discord-cleandm)** &nbsp;`Python` `Discord Selfbot`
 
-↳ &nbsp;**[Forever Edit](https://github.com/xmokecursed/ForeverEdit)** &nbsp;`TypeScript` `Vite` ``
+↳ &nbsp;**[Forever Edit](https://github.com/xmokecursed/ForeverEdit)** &nbsp;`TypeScript` `Vite`
 
 <br>
 
