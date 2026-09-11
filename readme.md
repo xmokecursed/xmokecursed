@@ -49,6 +49,10 @@
 
 ↳ &nbsp;**[Forever Edit](https://github.com/xmokecursed/ForeverEdit)** &nbsp;`TypeScript` `Vite`
 
+↳ &nbsp;**[Forever Edit](https://github.com/xmokecursed/Pinterest-scraper)** &nbsp;`Python` `Playwright`
+
+↳ &nbsp;**[Forever Edit](https://github.com/xmokecursed/Miclink)** &nbsp;`Kotlin` `Python`
+
 <br>
 
 ---
