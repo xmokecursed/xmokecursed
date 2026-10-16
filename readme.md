@@ -41,7 +41,9 @@
 
 <br>
 
-↳ &nbsp;**[Discord Bot](https://tinyurl.com/invitebocchan)** &nbsp;`Python` `Nextcord` `JSON`
+↳ &nbsp;**[Discord Bot](https://tinyurl.com/invitebocchan)** &nbsp;`Python` `Nextcord`
+
+↳ &nbsp;**[Discord Ai Chatbot](https://github.com/xmokecursed/discord-chatbot)** &nbsp;`Python` `Discord Selfbot`
 
 ↳ &nbsp;**[Auto Bumper](https://github.com/xmokecursed/disboard-auto-bumper)** &nbsp;`Python` `Discord Selfbot`
 
